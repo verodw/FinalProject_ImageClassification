@@ -1,1 +1,1 @@
-# FinalProject_ImageClassification
+# Final Project Image Classification
